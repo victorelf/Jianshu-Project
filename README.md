@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### 部分已实现的功能介绍
 
 1. 点击搜索框时会改变搜索框的样式，并显示“热门搜索”部分：
-
+![image](https://github.com/victorelf/Jianshu-Project/blob/master/images/SearchItem.png)
 2. 点击“换一换”时，热门搜索词汇会进行换页显示，且“换一换”前面的旋转图标会有相应的动画效果。
 3. 点击文章列表内容会进入详情页，显示出文章的具体内容：
 ![image](https://github.com/victorelf/Jianshu-Project/blob/master/images/Detail%20Page1.png)
