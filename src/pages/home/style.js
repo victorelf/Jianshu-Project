@@ -3,7 +3,7 @@ import styled from 'styled-components';
 export const HomeWrapper = styled.div`
 	overflow: hidden;
 	width: 960px;
-	margin: 0 auto;
+	margin: 58px auto 0 auto;
 `;
 
 export const HomeLeft = styled.div`
@@ -94,6 +94,7 @@ export const RecommendWrapper = styled.div`
 export const RecommendItem = styled.div`
 	width: 280px;
 	height: 50px;
+	margin-bottom: 5px;
 	background: url(${(props) => props.imgUrl});
 	background-size: contain;
 `;
